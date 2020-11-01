@@ -1,0 +1,18 @@
+{
+  "name": "erc20-starter",
+  "version": "1.0.0",
+  "description": "A starter smart contract setup for ERC20 with free-gas hyperledger besu network configuration added",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eng.youssefalaa@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
